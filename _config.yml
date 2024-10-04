@@ -8,9 +8,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: About
+    - text: Acerca de
       url: /about
-    - text: Contact
+    - text: Contacto
       url : /contact
 
 
@@ -26,7 +26,7 @@ typewrite-text: devlopr is a jekyll framework built for developers. You can edit
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
-author_work_experiences:
+#author_work_experiences:
             - company_name: Google
               company_logo: google.png
               company_url: https://google.com
