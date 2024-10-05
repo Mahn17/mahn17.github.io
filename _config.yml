@@ -18,7 +18,7 @@ urls:
 
 author_logo: profile.png
 author: Manuel Heredia
-author_bio: Hola, mi nombre es Manuel Heredia
+author_bio: Hola, mi nombre es Manuel Heredia, estudiante de Ciencias de la computación en la Universidad de Sonora
 author_email: "a220203714@unison.mx"
 author_location: Mexico
 author_website_url: "mahn17.github.io"
@@ -39,7 +39,7 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: mc-lcc.png
+              - project_thumbnail: mc-lcc.jpeg
                 project_title: Mapa Curricular
                 project_description: Mapa curricular interactivo
                 #project_url: https://gamershub.in
