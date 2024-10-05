@@ -31,7 +31,7 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 # Education
 author_education_details:
               - college_logo: unison.svg.png
-                college_name: Unison
+                college_name: Universidad de Sonora
                 college_url: unison.mx
                 college_degree: Ciencias de la computación
                 #description: Bachelor of Technology
