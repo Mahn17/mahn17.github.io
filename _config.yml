@@ -46,7 +46,7 @@ author_project_details:
                 visibility: true
               - project_thumbnail: sam.png
                 project_title: Sam
-                project_description: Sistema de gestion de inventario destino para el departamento de matematicas
+                project_description: Sistema de gestion de inventario destinado para el departamento de matematicas de la universidad
                 #project_url: https://hack4r.com
                 visibility: true
 
