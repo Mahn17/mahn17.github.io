@@ -41,10 +41,10 @@ author_education_details:
 author_project_details:
               - project_thumbnail: mc-lcc.jpeg
                 project_title: Mapa Curricular
-                project_description: Mapa curricular interactivo
+                project_description: Mapa curricular interactivo hecho en Java
                 #project_url: https://gamershub.in
                 visibility: true
-              - project_thumbnail: sam-logo.svg
+              - project_thumbnail: sam.png
                 project_title: Sam
                 project_description: Sistema de gestion de inventario destino para el departamento de matematicas
                 #project_url: https://hack4r.com
